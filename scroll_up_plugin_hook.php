@@ -1,11 +1,13 @@
 <?php 
 /*
 Plugin Name: Easy Scroll To Top
-Plugin URI: http://wordpress.org/plugins/easy-scroll-to-top/
+Plugin URI: https://github.com/githubarif/easy-scroll-to-top
 Description: Easily scroll up to the top of your website pages.
 Author: Ariful Islam
 Author URI: https://www.linkedin.com/in/ariful-islam-cse/
 Version: 1.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0
 */
 
 // Calling latest jquery from wordpress.

@@ -4,14 +4,15 @@
 Contributors: Ariful Islam
 Author: Ariful Islam
 Author URI: https://www.linkedin.com/in/ariful-islam-cse/
-Tags: scroll to top, back to top, button, to top, jquery, scroll top, smooth scroll
+Tags: scroll to top, back to top button, jquery, scroll top, smooth scroll
 Requires at least: 4.0 
-Tested up to: 6.6
- 
-Stable tag: 1.1 
-Easily scroll to the top of your website pages.
+Tested up to: 6.6.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0
+ 
+Easily scroll to the top of your website pages.
+
 
 
 == Description ==
